@@ -1,8 +1,5 @@
 <?php 
 
 echo "hello world";
-
-/*
-bu bir deneme projesidir.
-*/
+echo "ibo";
  ?>
